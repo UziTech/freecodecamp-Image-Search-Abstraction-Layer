@@ -17,6 +17,6 @@
   "dependencies": {
     "express": "^4.13.4",
     "mongodb": "^2.1.11",
-    "node-bing-api": "^2.4.0"
+    "node-bing-api": "^3.2.1"
   }
 }
